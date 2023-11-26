@@ -46,7 +46,7 @@ objects:
       spec:
         containers:
         - capabilities: {}
-          image: 'sonarqube:latest'
+          image: 'sonarqube:lts-community'
           imagePullPolicy: IfNotPresent
           ports:
             - containerPort: 9000
