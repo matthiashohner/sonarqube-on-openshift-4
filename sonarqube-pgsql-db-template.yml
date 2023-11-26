@@ -250,3 +250,8 @@ parameters:
   name: SONARQUBE_MEMORY_LIMITS
   required: true
   value: 2Gi
+- description: SonarQube container request limits.
+  displayName: Memory Limits
+  name: SONARQUBE_MEMORY_LIMITS
+  required: true
+  value: 50Mi
