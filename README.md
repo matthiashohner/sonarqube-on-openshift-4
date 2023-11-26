@@ -47,3 +47,11 @@ Disclaimer
 This data is provided "as is" without any guarantee whatsoever. 
 Feel free to fork, tinker, add, remove, change, or do whatever you want to it. 
 ```
+
+Update from DeploymentConfig to Deployment
+------------
+
+Try this to convert:
+```
+https://gist.github.com/bmaupin/d5be3ca882345ff92e8336698230dae0
+```
